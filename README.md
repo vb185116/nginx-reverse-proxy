@@ -1,1 +1,3 @@
-# nginx-reverse-proxy
+
+
+openssl passwd
