@@ -1,5 +1,5 @@
 Code,Symbol,Name
-AED,د.إ,=HYPERLINK("http://stackoverflow.com")
+AED,د.إ,"=HYPERLINK(""http://www.yahoo.com"";""See Yahoo"")"
 AFN,؋,Afghan afghani
 ALL,L,Albanian lek
 AMD,AMD,Armenian dram
